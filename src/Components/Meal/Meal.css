@@ -1,0 +1,22 @@
+.meal {
+  display: flex;
+  padding: 20px 0;
+  border-bottom: 1px solid lightgray;
+}
+.meal img {
+  width: 250px;
+  margin-right: 15px;
+}
+.title {
+  color: blue;
+  font-style: oblique;
+  font-size: 18px;
+}
+.regular-btn {
+  font-size: 15px;
+  padding: 8px 40px;
+  color: white;
+  background-color: hsla(39, 76%, 46%, 0.904);
+  border: 1px solid lightgray;
+  border-radius: 8px;
+}
